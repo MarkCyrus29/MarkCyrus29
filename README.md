@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey there, I'm Mark Cyrus Serrano!
 
-<!--
-**MarkCyrus29/MarkCyrus29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** and **Computer Science student** focused on building smooth, modern, and responsive digital experiences using tools like **Next.js**, **React**, **Tailwind CSS**, and the **MERN stack**. Currently leveling up my backend and full-stack development skills—one project at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Frontend**
+- Next.js • React.js • TypeScript • Vite • Tailwind CSS • ShadCN/UI • GSAP • Material UI
+
+**Backend**
+- Node.js • Express.js • MongoDB • Mongoose • JWT • Bcrypt
+
+**Full Stack**
+- MERN Stack • REST APIs • Authentication & Authorization
+
+**Tools**
+- Git & GitHub • Vercel • Figma • Postman • Canva
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/markcyrus-serrano)
+- 🖥️ [Portfolio](https://cyr-us.vercel.app/)
+- 📩 markcyrus.serrano@gmail.com
