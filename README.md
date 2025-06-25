@@ -22,6 +22,6 @@ I'm a passionate **Web Developer** and **Computer Science student** focused on b
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/markcyrus-serrano)
+- 💼 [LinkedIn](https://www.linkedin.com/in/markcyrus-serrano)
 - 🖥️ [Portfolio](https://cyr-us.vercel.app/)
 - 📩 markcyrus.serrano@gmail.com
