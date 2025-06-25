@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Mark Cyrus Serrano!
 
-I'm a passionate **Web Developer** and **Computer Science student** focused on building smooth, modern, and responsive digital experiences using tools like **Next.js**, **React**, **Tailwind CSS**, and the **MERN stack**. Currently leveling up my backend and full-stack development skills—one project at a time.
+I'm a **Web Developer** and **Computer Science student** focused on building smooth, modern, and responsive digital experiences using tools like **Next.js**, **React**, **Tailwind CSS**, and the **MERN stack**. Currently leveling up my backend and full-stack development skills—one project at a time.
 
 ---
 
